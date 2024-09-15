@@ -1,4 +1,4 @@
-# 📦 ML App
+# 🤖 ML App
 ```
 ⬆️ (Replace above with your app's name)
 ```
